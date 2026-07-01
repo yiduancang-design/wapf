@@ -1,0 +1,7 @@
+interface:
+  display_name: "文案评分优化"
+  short_description: "足球口播评分、单场深拆、改写优化与下粉话术"
+  default_prompt: "Use $wenan to score, improve, or generate football short-video copy with single-match logic and compliant CTA guidance."
+
+policy:
+  allow_implicit_invocation: true
